@@ -7,7 +7,7 @@
 
 <div align='center'>
 
-##  Hi There <img src="img/wave.gif" width="20">
+###  Hi There <img src="img/wave.gif" width="20">
 ### Welcome to my Github Profile
 
 
